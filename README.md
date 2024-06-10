@@ -1,6 +1,4 @@
-# IPo (IP Optimisation)
-
-Version: 0.1.0
+# IPo (IP Optimization)
 
 ## About the Project
 
